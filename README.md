@@ -1,7 +1,7 @@
 
-# Student Attendance 
+# Diabetes Prediction
 
-A machine learning project for student attendance in schools 
+Diabetes prediction from medical file
 
 ## Authors
 
